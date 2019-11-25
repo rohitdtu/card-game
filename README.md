@@ -1,2 +1,2 @@
 # card-game
-Card shuffle game
+card mind game
